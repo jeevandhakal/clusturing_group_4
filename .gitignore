@@ -16,3 +16,7 @@ wheels/
 # ignore sql file
 *.sql
 
+
+# vscode, idea
+.code
+.idea
